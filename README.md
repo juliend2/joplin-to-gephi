@@ -1,5 +1,9 @@
 # README
 
+## Example output
+
+![Example Gephi nodes view](fruchterman-reingold.png)
+
 ## Usage
 
 ```
